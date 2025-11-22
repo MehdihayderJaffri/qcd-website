@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/contact/page": "/contact",
+  "/blog-sidebar/page": "/blog-sidebar",
+  "/signin/page": "/signin",
+  "/blog-details/page": "/blog-details",
+  "/blog/page": "/blog",
+  "/error/page": "/error",
+  "/signup/page": "/signup",
+  "/page": "/"
+}
